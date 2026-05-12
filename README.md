@@ -1,3 +1,5 @@
+**DON'T steal w/o my permission**<br/><br/>
+
 a game for my uni proj. click [here](https://inversethree.github.io/logicAppProj/) to play if u wanna for some unexplained reasons<br/><br/>
 
 [scripts link](https://github.com/InverseThree/proj-scripts)<br/><br/>
@@ -10,6 +12,7 @@ animations: Invers∃<br/>
 3d assets: Invers∃<br/>
 2d sprites: Invers∃<br/>
 textures: Invers∃<br/>
+UI: Invers∃<br/>
 skybox material: [Free Island Collection](https://assetstore.unity.com/packages/3d/environments/landscapes/free-island-collection-104753)<br/>
 sfx: [FREE Casual Game SFX Pack](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116)<br/>
 music:<br/>
