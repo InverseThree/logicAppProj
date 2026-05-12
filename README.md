@@ -3,7 +3,7 @@ a game for my uni proj. click [here](https://inversethree.github.io/logicAppProj
 [scripts link](https://github.com/InverseThree/proj-scripts)<br/><br/>
 
 
-credit:<br/><br/>
+credit:<br/>
 game design: Invers∃<br/>
 programming: Invers∃<br/>
 animations: Invers∃<br/>
